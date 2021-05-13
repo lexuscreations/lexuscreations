@@ -14,7 +14,7 @@
 </ul>
 
 <hr />
-<h3>Connect | Contact | Get In Touch With Me: </h3>
+<h3>Connect | Contact | Get In Touch With Me : </h3>
 <p>
     <a href="" target="_blank">
         <img align="left" alt="codersgyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;">
