@@ -1,10 +1,20 @@
-### Hi there, I'm LokeshVishwakarma 👋
+### Hi there, I'm Lokesh 👋 
 
+<h3>I'm a Full-stack Software Developer and Javascript Enthusiast!</h3>
+<hr />
+<ul>
+  <li>🔭 I’m Currently Working As A Freelancer</li>
+  <li>🌱 I’m currently learning Deep JavaScript { Web : [ React ], Desktop : [ Electron ], Mobile : [ React_Native ] }</li>
+  <li>👯 I’m Looking To Collaborate With Other JavaScript Enthusiast</li>
+  <li>🥅 About : Fl Studio intermediator | Guitar Advance</li>
+  <li>⚡ Fun Fact : I Love To Sing And Play Guitar</li>
+</ul>
+<hr />
 <!--
 **lexuscreations/lexuscreations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-I'm a Full-stack Software Developer and Javascript Enthusiast!
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
