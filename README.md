@@ -108,4 +108,6 @@ Here are some ideas to get you started:
 -->
 <br/><br/><br/><br/><br/>
 
-<img src="https://raw.githubusercontent.com/lexuscreations/lexuscreations/main/Dream_Company%20(1).gif" width="75%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lexuscreations/lexuscreations/main/Dream_Company%20(1).gif" width="75%" alt="Dream Companies List"/>
+</p>
