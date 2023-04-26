@@ -92,21 +92,28 @@
 <h6><a href="https://github.com/codersgyan" target="_blank">Coder's Gyan</a></h6>
 <img align="left" alt="coders Gyan's Github Stats" src="https://camo.githubusercontent.com/1a0f22f2daff2f1fc1751ecaea88a2291038b0b7ba6b699d4d5518d445f6f075/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636f646572736779616e2673686f775f69636f6e733d7472756526686964655f626f726465723d74727565" style="max-width:100%;">
 
-<!--
-**lexuscreations/lexuscreations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<hr />
 
-Here are some ideas to get you started:
+<div align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=lexuscreations&theme=algolia&show_icons=true)](https://github.com/lexuscreations)
+
+</div>
+
+<hr />
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lexuscreations&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lexuscreations&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lexuscreations&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lexuscreations&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lexuscreations&theme=github_dark&utcOffset=8)
+
+</div>
+
+<hr />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lexuscreations/lexuscreations/main/Dream_Company%20(1).gif" width="75%" alt="Dream Companies List"/>
