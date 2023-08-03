@@ -7,8 +7,8 @@
 <hr />
 
 <ul>
-    <li>💼 Work : Working As A Freelancer</li>
-    <li>🔬 Currently : learning Deep JavaScript { Web : [ React ], Desktop : [ Electron ], Mobile : [ React_Native ], BackendServer: [ Express ] }</li>
+    <li>💼 Work : Working As A [M.E.R.N] Dev.</li>
+    <li>🔬 Currently : learning Deep JavaScript { Web : [ React, Next ], Desktop : [ Electron ], Mobile : [ React_Native ], BackendServer: [ Express ] }</li>
     <li>🔭 Looking : To Collaborate With Other JavaScript Enthusiast</li>
     <li>🔍 About : 🎹 Fl Studio Intermediator | 🎸 Guitar Advance</li>
     <li>⚡ Fun Fact : I Love To Sing And Play Guitar</li>
