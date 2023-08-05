@@ -2,7 +2,7 @@
 
 <hr />
 
-<h3>I'm a Full-stack Software Developer and Javascript Enthusiast!</h3>
+<h3>I'm a Full-Stack Software Developer and Javascript Enthusiast!</h3>
 
 <hr />
 
