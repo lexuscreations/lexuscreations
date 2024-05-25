@@ -1,4 +1,4 @@
-### Hi there, I'm Lokesh 👋 | SDE-2 | TotalExperience(2 years)
+### Hi there, I'm Lokesh 👋 | MERN developer |  TotalExperience(3 years)
 
 <hr />
 
