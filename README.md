@@ -51,7 +51,10 @@
   
 <hr />
 
-**My Guru / Dronacharya :** [Coder's Gyan](https://github.com/codersgyan)
+**MyGuru/Dronacharya=** [{<br/>
+  &nbsp;&nbsp;&nbsp;"Rakesh.K/CodersGyan": &nbsp;&nbsp;&nbsp;&nbsp;[[Github](https://github.com/codersgyan), [Website](https://www.codersgyan.com/), [Youtube](https://www.youtube.com/channel/UCo9xTRmg1SqQ5JSsA2fAgJw)],<br/>
+  &nbsp;&nbsp;&nbsp;"SanchitSoni/YahooBada": &nbsp;[[Website](https://www.yahoobaba.net/), [Youtube](https://www.youtube.com/c/YahooBaba)]<br/>
+}]
 
 <hr />
 
