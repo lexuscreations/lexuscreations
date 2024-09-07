@@ -23,7 +23,7 @@
   
 - 📝 I regularly write articles on [techscriptorium](https://techscriptorium.vercel.app/)  
   
-- 💬 Ask me about **FullStack SoftwareDevelopment [JavascriptEnthusiast (4.5+ Experience)]**  
+- 💬 Ask me about **FullStack SoftwareDevelopment [JavascriptEnthusiast (4.5+ Experience 9/7/2024)]**  
   
 - 📫 How to reach me [linkedin/lokeshvishwakarma/](https://www.linkedin.com/in/lokeshvishwakarma/)
   
